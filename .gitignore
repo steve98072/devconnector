@@ -358,6 +358,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # local confidential files
-/config/*
+config/*
 
 # End of https://www.gitignore.io/api/node,macos,linux,windows,reactnative
